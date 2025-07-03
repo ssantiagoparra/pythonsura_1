@@ -35,4 +35,4 @@ print("Producto: %s" % producto)  # Formateo con el operador % para cadenas
 print("Peso: %.2f kg" % peso)  # Formateo con el operador % para mostrar dos decimales
 print("Precio: ${:.2f}".format(precio))  # Formateo con .format() para mostrar dos decimales
 print("Cantidad: {}".format(cantidad))  # Formateo con .format() para enteros
-print("Valor total: ${:.2f}".format(precio * cantidad))  # Calcula el valor total y lo muestra con dos decimales
+print("Valor total: ${:.2f}".format(precio * cantidad))  # Calcula el valor total y lo muestra con dos decimales ###
